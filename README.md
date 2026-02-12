@@ -64,7 +64,7 @@ java --module-path $PATH_TO_FX --add-modules javafx.controls EngineTesterFX
 Developed by **Yiğit Yardımcı** as part of an open-source initiative to contribute to the macOS gaming and compatibility ecosystem.  
 🛠️ Special focus on automation (Python) and system integration testing (JavaFX).
 
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/yiğit-yardımcı-a36693317/) | [GitHub](https://github.com/AehoraDeSum)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/yigit-yardimci-a52b6823a/) | [GitHub](https://github.com/AehoraDeSum)
 
 ---
 
